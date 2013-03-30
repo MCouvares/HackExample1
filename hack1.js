@@ -7,7 +7,7 @@ var i = 0;
 
 function makeNewPosition(){
     
-    // Get viewport dimensions (remove the dimension of the div)
+
     var h = $(window).height() - 100;
     var w = $(window).width() - 100;
     
